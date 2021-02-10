@@ -13,6 +13,6 @@ public class Student {
 
   // method prints student info
   public void printStudent() {
-    System.out.println(name + " " + idNum + " " + firstClassNum);
+    System.out.println(name + " " + idNum + " " + classNum);
   }
 }

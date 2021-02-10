@@ -10,7 +10,7 @@ public class Main {
     // call enrolled method on t1 object
     boolean enrolled = t1.enrolled(classNum);
 
-    if (enrolled) {
+    if (enrolled){
       s1.printStudent();
       s2.printStudent();
       t1.printTeacherInfo();
